@@ -1,5 +1,5 @@
 # STM 32 Example Board
-A custom development board created in Altium designer in reference to <a href = "https://www.youtube.com/watch?v=PMEpQZ90f34">Phil's Lab</a>'s video on the same.
+A custom development board created in Altium designer inspired from <a href = "https://www.youtube.com/watch?v=PMEpQZ90f34">Phil's Lab</a>'s video.
 Major components are:
 <ol>
   <li>STM32F411CEU6 - Main Microcontroller</li>
