@@ -11,9 +11,9 @@ Major components are:
 </ol>
 
 <h2>Schematics</h2>
-<img src = "https://github.com/jyotissh/STM32_ExampleBoard/assets/43207029/a09b7b46-ef7a-42ac-ab84-69c65e40cbb7"> <br/> USB Connector and Voltage Regulator 
-<img src = "https://github.com/jyotissh/STM32_ExampleBoard/assets/43207029/e66ef69d-c4e8-4f5a-b94d-99e1f4a518c5"> <br/> Inertial Measurement Unit 
-<img src = "https://github.com/jyotissh/STM32_ExampleBoard/assets/43207029/04d1fc1e-a467-408e-98ae-9889aa1af1a6"> <br/> Microcontroller and Tag Connect
+<img src = "https://github.com/jyotissh/STM32_ExampleBoard/assets/43207029/a09b7b46-ef7a-42ac-ab84-69c65e40cbb7"> <br/> USB Connector and Voltage Regulator <br/>
+<img src = "https://github.com/jyotissh/STM32_ExampleBoard/assets/43207029/e66ef69d-c4e8-4f5a-b94d-99e1f4a518c5"> <br/> Inertial Measurement Unit <br/>
+<img src = "https://github.com/jyotissh/STM32_ExampleBoard/assets/43207029/04d1fc1e-a467-408e-98ae-9889aa1af1a6"> <br/> Microcontroller and Tag Connect <br/>
 <h2>Footprint</h2>
 <img src = "https://github.com/jyotissh/STM32_ExampleBoard/assets/43207029/d07230a4-fdd2-4f3c-bc96-583fe2de9a62">
 <h2>3D View</h2>
