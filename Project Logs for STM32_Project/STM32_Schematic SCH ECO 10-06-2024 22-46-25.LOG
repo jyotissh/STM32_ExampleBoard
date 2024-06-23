@@ -1,0 +1,2 @@
+Remove Pin=U3-23 From Net=IMU_SCL
+Remove Pin=U3-24 From Net=IMU_SDA
